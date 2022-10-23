@@ -1,0 +1,5 @@
+P1: Error: Data race: New
+ P1.49: Error: Data race: New
+  /home/bogacz_1132730/OpenMP/EnergyCalculator.cpp(8): Error X120: Write: Function contribution: Module /home/bogacz_1132730/OpenMP/a.out
+  /home/bogacz_1132730/OpenMP/EnergyCalculator.cpp(8): Error X121: Read: Function contribution: Module /home/bogacz_1132730/OpenMP/a.out
+
